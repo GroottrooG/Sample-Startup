@@ -1,1 +1,1 @@
-# Sample-Startup
+TinDog Starting Files
